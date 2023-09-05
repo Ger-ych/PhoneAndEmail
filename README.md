@@ -1,5 +1,5 @@
 # PhoneAndEmail
-Script for searching phone numbers and email addresses in a large amount of text
+Скрипт для поиска номеров телефонов и адресов электронной почты в большом объеме текста.
 
 # Using
-Copy the text to the clipboard and run the script, the found phone numbers and email addresses will be copied to your clipboard and displayed in the console
+Скопируйте текст в буфер обмена и запустите скрипт, найденные номера телефонов и адреса электронной почты будут скопированы в буфер обмена и отображены в консоли.
